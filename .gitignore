@@ -1,0 +1,18 @@
+# Gradle
+.gradle/
+.gradle-dist/
+build/
+gradle-*-all.zip
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Runtime
+run/
+logs/
+*.log
+
+# Trae uploads
+.uploads/
