@@ -1,7 +1,18 @@
-node_modules/
-target/
-__pycache__/
-.env
-dist/
+# Gradle
+.gradle/
+.gradle-dist/
+build/
+gradle-*-all.zip
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Runtime
+run/
+logs/
 *.log
-.DS_Store
+
+# Trae uploads
+.uploads/
