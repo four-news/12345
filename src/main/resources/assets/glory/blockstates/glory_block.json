@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "glory:block/glory_block"
+    },
+    "powered=true": {
+      "model": "glory:block/glory_block"
+    }
+  }
+}

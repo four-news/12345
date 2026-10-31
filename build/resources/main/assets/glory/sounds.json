@@ -1,0 +1,10 @@
+{
+  "glory_song": {
+    "sounds": [
+      {
+        "name": "glory:glory_song",
+        "stream": true
+      }
+    ]
+  }
+}
