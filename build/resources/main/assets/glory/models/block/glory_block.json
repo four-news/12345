@@ -1,26 +1,12 @@
 {
-  "parent": "block/cube",
+  "parent": "minecraft:block/cube",
   "textures": {
-    "particle": "glory:block/glory_block",
-    "north": "glory:block/glory_block",
-    "east": "glory:block/glory_block",
-    "south": "glory:block/glory_block",
-    "west": "glory:block/glory_block",
-    "up": "glory:block/glory_block",
-    "down": "glory:block/glory_block"
-  },
-  "elements": [
-    {
-      "from": [0, 0, 0],
-      "to": [16, 16, 16],
-      "faces": {
-        "north": { "uv": [0, 0, 16, 16], "texture": "#north" },
-        "east": { "uv": [0, 16, 16, 32], "texture": "#east" },
-        "south": { "uv": [16, 0, 32, 16], "texture": "#south" },
-        "west": { "uv": [16, 16, 32, 32], "texture": "#west" },
-        "up": { "uv": [0, 32, 16, 48], "texture": "#up" },
-        "down": { "uv": [32, 0, 48, 16], "texture": "#down" }
-      }
-    }
-  ]
+    "particle": "glory:block/glory_block_north",
+    "north": "glory:block/glory_block_north",
+    "south": "glory:block/glory_block_south",
+    "east": "glory:block/glory_block_east",
+    "west": "glory:block/glory_block_west",
+    "up": "glory:block/glory_block_up",
+    "down": "glory:block/glory_block_down"
+  }
 }
